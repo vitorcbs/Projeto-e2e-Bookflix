@@ -1,3 +1,4 @@
+using EmprestimoLivros.API.Controllers;
 using EmprestimoLivros.API.Interface;
 using EmprestimoLivros.API.Models;
 using EmprestimoLivros.API.Repositories;
